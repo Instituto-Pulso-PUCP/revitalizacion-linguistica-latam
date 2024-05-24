@@ -1,0 +1,11 @@
+#Ignore csv files
+*.csv
+
+#Ignore pdf files
+*.pdf
+
+#Ignore xlsx files
+*.xlsx
+
+*.sav
+*.png
